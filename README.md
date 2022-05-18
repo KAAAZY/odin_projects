@@ -1,0 +1,1 @@
+This file is trainig apply for odin project under odin recipes section
